@@ -1,7 +1,7 @@
 #encoding: utf-8
 
 def main():
-    print "ciao nondo"
+    print "ciao mondo"
 
 
 if __name__ == "__main__":
