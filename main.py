@@ -1,7 +1,7 @@
 #encoding: utf-8
 
 def nuova_f():
-    pass
+    return 42
 
 def main():
     print "ciao mondo"
